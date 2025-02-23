@@ -1,3 +1,5 @@
+여러 가지 웹 크롤링 봇 (Web Crawling Bot)들이 정리되어 있는 사이트[웹 크롤링 봇 정리 사이트](https://pitsec.tistory.com/49)
+
 # BaiduSpider
 Baidu의 검색가능한 색인을 만들기 위해서 사용되는 웹 크롤링 봇
 
