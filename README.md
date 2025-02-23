@@ -10,6 +10,7 @@ Baidu의 검색가능한 색인을 만들기 위해서 사용되는 웹 크롤�
 
 BaiduSpider는 Baidu의 검색가능한 색인을 만들기 위해서 사용되는 웹 크롤링 봇이다.
 
+User-Agent: BaiduSpider
 #### Similarity
 BaiduSpider-image
 BaiduSpider-news
